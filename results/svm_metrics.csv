@@ -1,0 +1,2 @@
+model,accuracy,macro_f1
+SVM,0.85,0.850790726749806
